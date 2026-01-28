@@ -184,12 +184,7 @@ while True:
     else:
         print('vui long chon lai')
     break
-
-
-
-
-
-
+```
 
 
 
